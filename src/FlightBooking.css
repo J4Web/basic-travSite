@@ -1,0 +1,8 @@
+.flight__bg{
+    width: 100vw;
+    height: 95vh;
+    max-width: 100%;
+    object-fit: cover;
+    z-index: -100;
+
+}

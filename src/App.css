@@ -1,0 +1,31 @@
+.hero__img{
+  
+  width: 100vw;
+    height: 95vh;
+    max-width: 100%;
+    object-fit: cover;
+    z-index: -100;
+    
+  }
+  .app__data > .app__header{
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.64);
+    margin-top: -500px;
+    padding: 10px;
+    border-radius: 5px; 
+  }
+  .app__data{
+    display: flex;
+ 
+    justify-self: center;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -400px;
+
+  }
+.app__extra{
+  text-align: center;
+  margin: 3%;
+}
