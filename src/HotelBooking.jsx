@@ -30,7 +30,8 @@ const  handleClick= (e)=>
     setShowMsg(true);
 }
 const handleReload=()=>{
-    location.reload(); 
+    // location.reload(); 
+    window.location.replace('/');
 }
   return (
     <div>
@@ -61,3 +62,5 @@ const handleReload=()=>{
 }
 
 export default HotelBooking
+
+
